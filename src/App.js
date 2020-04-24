@@ -1,4 +1,4 @@
-import React from 'react'
+  import React from 'react'
 import './App.css'
 import LeftParent1 from './components/left/LeftParent1'
 import RightParent1 from './components/right/RightParent1'
